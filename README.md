@@ -1,4 +1,4 @@
-# instacart_customer_profiling
+# Instacart customer profiling
 A data analysis project about customers and their buying behavior at Instacart, an online grocery store.
 
 ### Objective
